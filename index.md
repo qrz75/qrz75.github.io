@@ -28,9 +28,7 @@ nav-menu: true
 <section id="spotlights" class="spotlights">
 <!-- Ti serve aiuto -->
 	<section id="ti-serve-aiuto">
-		<a href="generic.html" class="image">
 			<img src="{% link assets/images/aditya-romansa-5zp0jym2w9M-unsplash.jpg %}" alt="" data-position="center center" />
-		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
@@ -45,9 +43,7 @@ nav-menu: true
 	</section>
 	<!-- Vuoi aiutare -->
 	<section id="vuoi-aiutare">
-		<a href="generic.html" class="image">
 			<img src="{% link assets/images/clay-banks-3oWop6MFYfc-unsplash.jpg %}" alt="" data-position="top center" />
-		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
@@ -96,9 +92,7 @@ IBAN IT83K0853049250000000257940
 <section id="la-storia-di-agnese" class="spotlights">
 <!-- Chi siamo -->
 	<section>
-		<a href="generic.html" class="image">
 			<img src="{% link assets/images/agnese.jpg %}" alt="La storia di Agnese" data-position="25% 25%" />
-		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
