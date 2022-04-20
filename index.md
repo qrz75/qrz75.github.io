@@ -65,7 +65,7 @@ nav-menu: true
 				<p>Puoi donare all’associazione con un bonifico bancario intestato a:</p>
 <blockquote>La cura di Agnese ODV<br>Regione Oliveto Terraconiglio 4, 17031 Albenga (SV)
 <br>
-Banca D’Alba<br>
+<!--Banca D’Alba<br>-->
 IBAN IT83K0853049250000000257940
 </blockquote>
 <!--Ricordati di indicare il tuo nome, cognome, recapito postale e/o email nelle note, dove possibile: ti potremo inviare così il riepilogo delle donazioni da allegare alla dichiarazione dei redditi 
