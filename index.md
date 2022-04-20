@@ -36,10 +36,12 @@ nav-menu: true
 				<header class="major">
 					<h3>Ti serve aiuto?</h3>
 				</header>
+				<div class="9u 12u$(small)">
 				<p>Se pensi di aver bisogno di aiuto o di conoscere qualcuno che avrebbe bisogno di noi, scrivi o chiamaci.</p>
 				<ul class="actions">
 					<li><a href="#contact" class="button">Contattaci</a></li>
 				</ul>
+				</div>
 			</div>
 		</div>
 	</section>
@@ -100,13 +102,12 @@ IBAN IT83K0853049250000000257940
 				<header class="major">
 					<h3>La storia di Agnese</h3>
 				</header>
+				<div class="9u 12u$(small)">
 				<p>Ciao io sono Agnese, sono nata il 15.01.2018 e sono volata via il 26.07.2021.
 State facendo i conti? Vi aiuto io, avevo 3 anni e mezzo. Perché?
 Avevo una malattia genetica rara, ma quale non si sa, non sono ad oggi ancora riusciti a scoprirlo. Quando sono nata in realtà sembravo sanissima, anzi ho preso il punteggio massimo! Orgoglio di mamma e papà fin da subito! I primi dubbi sono venuti quando avevo 8 mesi perché ero un pò ipotonica e mi muovevo poco, ma intanto sorridevo sempre, ero spiritosa, curiosa, e super intelligente. Quindi per un pò di tempo qualcuno diceva che ero "pigra". Io pigra? ma guarda un pò! A 12 mesi, dopo un ricovero di una settimana per capire cosa avessi, hanno detto ai miei genitori che avevo una malattia muscolare genetica (miopatia) ma che non sapevano ancora quale esattamente. Da lì sono iniziati i ricoveri programmati, i prelievi, le visite, le sedute fisioterapiche, la burocrazia e un sacco di altre faccende. Ma i miei genitori erano contenti, sapevano che avevo scampato malattie ancora più gravi, mi vedevano felice e allora pure loro lo erano. Piano piano, ma però nemmeno tanto piano, le cose si sono complicate per me.
 </p>
-				<!--ul class="actions">
-					<li><a href="generic.html" class="button">Leggi la mia storia</a></li>
-				</ul-->
+</div>
 			</div>
 		</div>
 	</section>
