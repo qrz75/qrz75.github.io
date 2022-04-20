@@ -28,7 +28,9 @@ nav-menu: true
 <section id="spotlights" class="spotlights">
 <!-- Ti serve aiuto -->
 	<section id="ti-serve-aiuto">
+	<a href="#contact" class="image">
 			<img src="{% link assets/images/aditya-romansa-5zp0jym2w9M-unsplash.jpg %}" alt="" data-position="center center" />
+			</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
@@ -43,7 +45,7 @@ nav-menu: true
 	</section>
 	<!-- Vuoi aiutare -->
 	<section id="vuoi-aiutare">
-			<img src="{% link assets/images/clay-banks-3oWop6MFYfc-unsplash.jpg %}" alt="" data-position="top center" />
+			<img class="image" src="{% link assets/images/clay-banks-3oWop6MFYfc-unsplash.jpg %}" alt="" data-position="top center" />
 		<div class="content">
 			<div class="inner">
 				<header class="major">
@@ -65,7 +67,7 @@ nav-menu: true
 				<p>Puoi donare all’associazione con un bonifico bancario intestato a:</p>
 <blockquote>La cura di Agnese ODV<br>Regione Oliveto Terraconiglio 4, 17031 Albenga (SV)
 <br>
-<!--Banca D’Alba<br>-->
+Banca D’Alba<br>
 IBAN IT83K0853049250000000257940
 </blockquote>
 <!--Ricordati di indicare il tuo nome, cognome, recapito postale e/o email nelle note, dove possibile: ti potremo inviare così il riepilogo delle donazioni da allegare alla dichiarazione dei redditi 
@@ -92,7 +94,7 @@ IBAN IT83K0853049250000000257940
 <section id="la-storia-di-agnese" class="spotlights">
 <!-- Chi siamo -->
 	<section>
-			<img src="{% link assets/images/agnese.jpg %}" alt="La storia di Agnese" data-position="25% 25%" />
+			<img class="image" src="{% link assets/images/agnese.jpg %}" alt="La storia di Agnese" data-position="25% 25%" />
 		<div class="content">
 			<div class="inner">
 				<header class="major">
