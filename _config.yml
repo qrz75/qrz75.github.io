@@ -1,0 +1,45 @@
+# site settings
+title: La cura di Agnese
+subtitle: 
+email: lacuradiagnese@gmail.com
+certemail:  lacuradiagnese@pec.it
+description: Questa associazione intende fornire alle famiglie aiuti e professionisti in forma assolutamente gratuita e si basa unicamente sulla donazione volontaria.
+baseurl: # the subpath of your site, e.g. /blog
+url: "https://www.lacuradiagnese.it" # the base hostname & protocol for your site
+author: La cura di Agnese ODV
+street_address:  Regione Oliveto Terraconiglio 4
+city: Albenga
+state: (SV)
+zip_code: 17031
+country: Italia
+phone: +39 349 8358338
+
+# homepage tiles
+tiles-source: pages # accepts "posts" or "pages"
+tiles-count: 6
+
+# social settings (key must match name of font awesome icon)
+# see https://fontawesome.com/icons?d=gallery&p=2&s=brands
+# Icons are not shown if value is empty
+# You need to restart jekyll for changes to have an effect
+socials:
+  GitHub: 
+  GitLab:
+  Google-Plus: 
+  Instagram: https://www.instagram.com/lacuradiagnese/ 
+  LinkedIn: 
+  Twitter: 
+  Facebook: https://www.facebook.com/lacuradiagnese
+  Slack:
+
+# build settings
+markdown: kramdown
+
+sass:
+  style: compressed
+
+exclude:
+- "*.gemspec"
+- LICENSE.md
+- CONTRIBUTING.md
+- README.md 
